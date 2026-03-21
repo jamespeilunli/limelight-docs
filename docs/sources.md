@@ -1,0 +1,89 @@
+# Official Source Inventory
+
+This documentation set was synthesized from the official Limelight documentation pages listed below.
+
+## Getting Started
+
+- <https://docs.limelightvision.io/docs/docs-limelight/getting-started/summary>
+- <https://docs.limelightvision.io/docs/docs-limelight/getting-started/limelight-1>
+- <https://docs.limelightvision.io/docs/docs-limelight/getting-started/limelight-2>
+- <https://docs.limelightvision.io/docs/docs-limelight/getting-started/limelight-3>
+- <https://docs.limelightvision.io/docs/docs-limelight/getting-started/limelight-3a>
+- <https://docs.limelightvision.io/docs/docs-limelight/getting-started/limelight-3g>
+- <https://docs.limelightvision.io/docs/docs-limelight/getting-started/limelight-4>
+- <https://docs.limelightvision.io/docs/docs-limelight/getting-started/pipelines>
+- <https://docs.limelightvision.io/docs/docs-limelight/getting-started/crosshair>
+- <https://docs.limelightvision.io/docs/docs-limelight/getting-started/performing-charuco-camera-calibration>
+- <https://docs.limelightvision.io/docs/docs-limelight/getting-started/hardware-comparison>
+
+## AprilTag Pipelines
+
+- <https://docs.limelightvision.io/docs/docs-limelight/pipeline-apriltag/apriltags>
+- <https://docs.limelightvision.io/docs/docs-limelight/pipeline-apriltag/apriltag-3d>
+- <https://docs.limelightvision.io/docs/docs-limelight/pipeline-apriltag/apriltag-coordinate-systems>
+- <https://docs.limelightvision.io/docs/docs-limelight/pipeline-apriltag/apriltag-map-builder>
+- <https://docs.limelightvision.io/docs/docs-limelight/pipeline-apriltag/apriltag-map-specification>
+- <https://docs.limelightvision.io/docs/docs-limelight/pipeline-apriltag/apriltag-robot-localization>
+- <https://docs.limelightvision.io/docs/docs-limelight/pipeline-apriltag/apriltag-robot-localization-megatag2>
+
+## Color / Retroreflective Pipelines
+
+- <https://docs.limelightvision.io/docs/docs-limelight/pipeline-retro/color-filtering>
+- <https://docs.limelightvision.io/docs/docs-limelight/pipeline-retro/contour-filtering-and-sorting>
+- <https://docs.limelightvision.io/docs/docs-limelight/pipeline-retro/retro-theory>
+
+## Neural Pipelines
+
+- <https://docs.limelightvision.io/docs/docs-limelight/pipeline-neural/getting-started-with-neural-networks>
+- <https://docs.limelightvision.io/docs/docs-limelight/pipeline-neural/training-your-own-detector>
+- <https://docs.limelightvision.io/docs/docs-limelight/pipeline-neural/training-your-own-classifier>
+
+## Python SnapScript Pipelines
+
+- <https://docs.limelightvision.io/docs/docs-limelight/pipeline-python/snapscript-pipelines>
+- <https://docs.limelightvision.io/docs/docs-limelight/pipeline-python/snapscript-generator>
+
+## Barcode Pipelines
+
+- <https://docs.limelightvision.io/docs/docs-limelight/pipeline-barcode/barcodes>
+
+## APIs and Libraries
+
+- <https://docs.limelightvision.io/docs/docs-limelight/apis/complete-networktables-api>
+- <https://docs.limelightvision.io/docs/docs-limelight/apis/ftc-programming>
+- <https://docs.limelightvision.io/docs/docs-limelight/apis/json-results-specification>
+- <https://docs.limelightvision.io/docs/docs-limelight/apis/json-status-specification>
+- <https://docs.limelightvision.io/docs/docs-limelight/apis/limelight-lib>
+- <https://docs.limelightvision.io/docs/docs-limelight/apis/limelightlib-python>
+- <https://docs.limelightvision.io/docs/docs-limelight/apis/modbus>
+- <https://docs.limelightvision.io/docs/docs-limelight/apis/rest-http-api>
+- <https://docs.limelightvision.io/docs/docs-limelight/apis/websocket-api>
+
+## Tutorials
+
+- <https://docs.limelightvision.io/docs/docs-limelight/tutorials/example-projects>
+- <https://docs.limelightvision.io/docs/docs-limelight/tutorials/tutorial-aiming-and-ranging>
+- <https://docs.limelightvision.io/docs/docs-limelight/tutorials/tutorial-aiming-with-visual-servoing>
+- <https://docs.limelightvision.io/docs/docs-limelight/tutorials/tutorial-estimating-distance>
+- <https://docs.limelightvision.io/docs/docs-limelight/tutorials/tutorial-frc-robot-2017>
+- <https://docs.limelightvision.io/docs/docs-limelight/tutorials/tutorial-frc-robot-2019>
+- <https://docs.limelightvision.io/docs/docs-limelight/tutorials/tutorial-getting-in-range>
+- <https://docs.limelightvision.io/docs/docs-limelight/tutorials/tutorial-seeking-targets>
+- <https://docs.limelightvision.io/docs/docs-limelight/tutorials/tutorial-swerve-aiming-and-ranging>
+- <https://docs.limelightvision.io/docs/docs-limelight/tutorials/tutorial-swerve-pose-estimation>
+
+## Release Notes and Support
+
+- <https://docs.limelightvision.io/docs/docs-limelight/software-change-log>
+- <https://docs.limelightvision.io/docs/docs-limelight/software-change-log-2021-2023>
+- <https://docs.limelightvision.io/docs/docs-limelight/software-change-log-2017-2020>
+- <https://docs.limelightvision.io/docs/docs-limelight/ask-a-question>
+
+## Downloads
+
+- <https://docs.limelightvision.io/docs/resources/downloads>
+
+## Notes
+
+- The generated docs in this repo prioritize **Limelight 3** and **Limelight 4** even though some official pages also cover other models.
+- The official source corpus reviewed here contains **51 pages** under the Limelight docs tree plus the Downloads page.
